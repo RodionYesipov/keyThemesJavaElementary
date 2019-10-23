@@ -22,27 +22,27 @@
 - 	File(create,find,copy,delete, zip/unzip, parsing)
 
 ## Git/Github
--	github / gitlab / bitbucket
+-github / gitlab / bitbucket
 
 ## Build tools
 - maven/gradle
-- 	XML
-- 	dependencies
-- 	obfuscation
-- 	jar/war generation
-- 	JVM
-- 	decompiler
+- XML
+- dependencies
+- obfuscation
+- jar/war generation
+- JVM
+- decompiler
 
 ## WebServers
 - linux server
-- 	HTTP requests
+- HTTP requests
 	- CRUD
-	- 		GET, POST, PUT, DELETE, HEAD
-	- 		servlets
-	- 		Retrofit
-	- 		PostMan
-	- 		Tomcat
-	- 		Jersey
+	- GET, POST, PUT, DELETE, HEAD
+	- servlets
+	- Retrofit
+	- PostMan
+	- Tomcat
+	- Jersey
 
 - Virtual machines
 	- VirtualBox
@@ -58,19 +58,19 @@
 - REST
 ## Spring
 - SpringBoot
-##Front-end
+## Front-end
 - HTML, CSS, JS
 - mustache template
 - base64 format
 
-##Testing
+## Testing
 - unit tests(JUnit, Mockito)
 
-##Development methodologies
+## Development methodologies
 - scrum,agile,waterfall,kanban
 - **tools**: kanboard, trello, jira,redmine
 
-##Other
+## Other
 - IDE
 	- tools: jdk, eclipse,intellij idea,NetBeans
 - Linux commandline
