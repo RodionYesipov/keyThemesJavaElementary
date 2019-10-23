@@ -22,7 +22,7 @@
 - 	File(create,find,copy,delete, zip/unzip, parsing)
 
 ## Git/Github
--github / gitlab / bitbucket
+- github / gitlab / bitbucket
 
 ## Build tools
 - maven/gradle
